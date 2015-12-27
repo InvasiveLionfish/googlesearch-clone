@@ -2,8 +2,14 @@ div{
 	border: solid 1px black;
 }
 
+a:hover {
+	text-decoration: underline;
+}
+
 .navbar{
+	margin-top: 10px; 
 	margin-bottom: 20px;
+	padding-top: 10px;
 }
 
 .navbar ul{
