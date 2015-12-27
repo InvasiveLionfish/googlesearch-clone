@@ -19,11 +19,53 @@ div{
     padding-right: 10px;
 }
 
+.navbar li a{
+	text-decoration: none;
+	color: #666;
+}
+
 .search-field{
 	margin-left:auto;
 	margin-right: auto;
 }
 
+.searchbar{
+	padding-bottom: 2px;
+	padding-top: 3px;
+	width: 638px;
+}
+
 .buttons{
+	padding-top: 18px;
 	display: inline-block;
+}
+
+footer{
+	line-height: 40px;
+	background-color: gray;
+}
+
+.footer-left{
+	float: left;
+}
+
+.footer-right{
+	float:right;
+}
+
+footer ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+footer li{
+	display: inline;
+	padding-right: 10px;
+}
+
+footer li a{
+	text-decoration: none;
+	color: #666;
 }
