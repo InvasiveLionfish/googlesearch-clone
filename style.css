@@ -48,7 +48,11 @@ div{
 
 footer{
 	line-height: 40px;
-	background-color: gray;
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	min-width: 100%;
+  	bottom: 0;
+  	position: absolute;
 }
 
 .footer-left{
@@ -74,4 +78,5 @@ footer li{
 footer li a{
 	text-decoration: none;
 	color: #666;
+	margin-right: 15px;
 }
