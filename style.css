@@ -29,10 +29,16 @@ div{
 	margin-right: auto;
 }
 
+.logo{
+	height: 180px;
+	margin-top: 89px;
+}
+
 .searchbar{
 	padding-bottom: 2px;
 	padding-top: 3px;
-	width: 638px;
+	width: 570px;
+	height: 29px;
 }
 
 .buttons{
